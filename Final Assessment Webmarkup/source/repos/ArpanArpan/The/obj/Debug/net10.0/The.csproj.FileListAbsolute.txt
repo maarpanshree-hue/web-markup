@@ -1,0 +1,15 @@
+C:\Users\Arpan\source\repos\ArpanArpan\The\bin\Debug\net10.0\The.exe
+C:\Users\Arpan\source\repos\ArpanArpan\The\bin\Debug\net10.0\The.deps.json
+C:\Users\Arpan\source\repos\ArpanArpan\The\bin\Debug\net10.0\The.runtimeconfig.json
+C:\Users\Arpan\source\repos\ArpanArpan\The\bin\Debug\net10.0\The.dll
+C:\Users\Arpan\source\repos\ArpanArpan\The\bin\Debug\net10.0\The.pdb
+C:\Users\Arpan\source\repos\ArpanArpan\The\obj\Debug\net10.0\The.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Arpan\source\repos\ArpanArpan\The\obj\Debug\net10.0\The.AssemblyInfoInputs.cache
+C:\Users\Arpan\source\repos\ArpanArpan\The\obj\Debug\net10.0\The.AssemblyInfo.cs
+C:\Users\Arpan\source\repos\ArpanArpan\The\obj\Debug\net10.0\The.csproj.CoreCompileInputs.cache
+C:\Users\Arpan\source\repos\ArpanArpan\The\obj\Debug\net10.0\The.dll
+C:\Users\Arpan\source\repos\ArpanArpan\The\obj\Debug\net10.0\refint\The.dll
+C:\Users\Arpan\source\repos\ArpanArpan\The\obj\Debug\net10.0\The.pdb
+C:\Users\Arpan\source\repos\ArpanArpan\The\obj\Debug\net10.0\The.genruntimeconfig.cache
+C:\Users\Arpan\source\repos\ArpanArpan\The\obj\Debug\net10.0\ref\The.dll
+C:\Users\Arpan\source\repos\ArpanArpan\The\obj\Debug\net10.0\The.csproj.Up2Date

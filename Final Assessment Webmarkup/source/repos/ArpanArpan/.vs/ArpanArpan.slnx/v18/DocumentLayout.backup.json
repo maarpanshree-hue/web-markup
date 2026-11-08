@@ -1,0 +1,136 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Arpan\\source\\repos\\ArpanArpan\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4235DC7D-1DB1-4C60-84DF-EA7479553753}|The\\The.csproj|c:\\users\\arpan\\source\\repos\\arpanarpan\\the\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4235DC7D-1DB1-4C60-84DF-EA7479553753}|The\\The.csproj|solutionrelative:the\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1838F2A-95B3-47F7-97C7-39E0722377A5}|Week 2           1\\Week 2           1.csproj|c:\\users\\arpan\\source\\repos\\arpanarpan\\week 2           1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1838F2A-95B3-47F7-97C7-39E0722377A5}|Week 2           1\\Week 2           1.csproj|solutionrelative:week 2           1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CEC068B5-AD9F-46F7-B012-39EDBE870C56}|Arpanshree\\Assignment 2.csproj|c:\\users\\arpan\\source\\repos\\arpanarpan\\arpanshree\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CEC068B5-AD9F-46F7-B012-39EDBE870C56}|Arpanshree\\Assignment 2.csproj|solutionrelative:arpanshree\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E4F80710-D34F-4D80-8CFC-35E3CC96DFAB}|Assignment 3\\Assignment 3.csproj|c:\\users\\arpan\\source\\repos\\arpanarpan\\assignment 3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E4F80710-D34F-4D80-8CFC-35E3CC96DFAB}|Assignment 3\\Assignment 3.csproj|solutionrelative:assignment 3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4F417A6-688F-4FFA-A8B0-A4B59FC0BFE1}|Assignment 5\\Assignment 5.csproj|c:\\users\\arpan\\source\\repos\\arpanarpan\\assignment 5\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A4F417A6-688F-4FFA-A8B0-A4B59FC0BFE1}|Assignment 5\\Assignment 5.csproj|solutionrelative:assignment 5\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8C6AD561-F7DA-4B19-9440-8625F1975BD9}|Assignment 4\\Assignment 4.csproj|c:\\users\\arpan\\source\\repos\\arpanarpan\\assignment 4\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8C6AD561-F7DA-4B19-9440-8625F1975BD9}|Assignment 4\\Assignment 4.csproj|solutionrelative:assignment 4\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B6C525BD-5EF4-8DC4-EB3E-3C383FF13AB3}|ArpanArpan\\ArpanArpan.csproj|c:\\users\\arpan\\source\\repos\\arpanarpan\\arpanarpan\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B6C525BD-5EF4-8DC4-EB3E-3C383FF13AB3}|ArpanArpan\\ArpanArpan.csproj|solutionrelative:arpanarpan\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Arpan\\source\\repos\\ArpanArpan\\Assignment 3\\Program.cs",
+              "RelativeDocumentMoniker": "Assignment 3\\Program.cs",
+              "ToolTip": "C:\\Users\\Arpan\\source\\repos\\ArpanArpan\\Assignment 3\\Program.cs",
+              "RelativeToolTip": "Assignment 3\\Program.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAzwBYAAABGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-04T10:02:00.388Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Arpan\\source\\repos\\ArpanArpan\\The\\Program.cs",
+              "RelativeDocumentMoniker": "The\\Program.cs",
+              "ToolTip": "C:\\Users\\Arpan\\source\\repos\\ArpanArpan\\The\\Program.cs*",
+              "RelativeToolTip": "The\\Program.cs*",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAABYAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-14T11:08:51.346Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Arpan\\source\\repos\\ArpanArpan\\Week 2           1\\Program.cs",
+              "RelativeDocumentMoniker": "Week 2           1\\Program.cs",
+              "ToolTip": "C:\\Users\\Arpan\\source\\repos\\ArpanArpan\\Week 2           1\\Program.cs",
+              "RelativeToolTip": "Week 2           1\\Program.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAzwBAAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-08T19:59:48.527Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Arpan\\source\\repos\\ArpanArpan\\Assignment 5\\Program.cs",
+              "RelativeDocumentMoniker": "Assignment 5\\Program.cs",
+              "ToolTip": "C:\\Users\\Arpan\\source\\repos\\ArpanArpan\\Assignment 5\\Program.cs",
+              "RelativeToolTip": "Assignment 5\\Program.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAQwBQAAAA9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-04T10:46:37.9Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Arpan\\source\\repos\\ArpanArpan\\Assignment 4\\Program.cs",
+              "RelativeDocumentMoniker": "Assignment 4\\Program.cs",
+              "ToolTip": "C:\\Users\\Arpan\\source\\repos\\ArpanArpan\\Assignment 4\\Program.cs",
+              "RelativeToolTip": "Assignment 4\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-04T22:18:37.465Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Arpan\\source\\repos\\ArpanArpan\\ArpanArpan\\Program.cs",
+              "RelativeDocumentMoniker": "ArpanArpan\\Program.cs",
+              "ToolTip": "C:\\Users\\Arpan\\source\\repos\\ArpanArpan\\ArpanArpan\\Program.cs",
+              "RelativeToolTip": "ArpanArpan\\Program.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAAAQwBgAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-02T20:33:01.017Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Arpan\\source\\repos\\ArpanArpan\\Arpanshree\\Program.cs",
+              "RelativeDocumentMoniker": "Arpanshree\\Program.cs",
+              "ToolTip": "C:\\Users\\Arpan\\source\\repos\\ArpanArpan\\Arpanshree\\Program.cs",
+              "RelativeToolTip": "Arpanshree\\Program.cs",
+              "ViewState": "AgIAABoAAAAAAAAAAAAAABoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-03T09:38:10.665Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

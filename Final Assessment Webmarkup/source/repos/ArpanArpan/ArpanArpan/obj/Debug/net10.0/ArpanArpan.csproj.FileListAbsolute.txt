@@ -1,0 +1,14 @@
+C:\Users\Arpan\source\repos\ArpanArpan\ArpanArpan\bin\Debug\net10.0\ArpanArpan.exe
+C:\Users\Arpan\source\repos\ArpanArpan\ArpanArpan\bin\Debug\net10.0\ArpanArpan.deps.json
+C:\Users\Arpan\source\repos\ArpanArpan\ArpanArpan\bin\Debug\net10.0\ArpanArpan.runtimeconfig.json
+C:\Users\Arpan\source\repos\ArpanArpan\ArpanArpan\bin\Debug\net10.0\ArpanArpan.dll
+C:\Users\Arpan\source\repos\ArpanArpan\ArpanArpan\bin\Debug\net10.0\ArpanArpan.pdb
+C:\Users\Arpan\source\repos\ArpanArpan\ArpanArpan\obj\Debug\net10.0\ArpanArpan.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Arpan\source\repos\ArpanArpan\ArpanArpan\obj\Debug\net10.0\ArpanArpan.AssemblyInfoInputs.cache
+C:\Users\Arpan\source\repos\ArpanArpan\ArpanArpan\obj\Debug\net10.0\ArpanArpan.AssemblyInfo.cs
+C:\Users\Arpan\source\repos\ArpanArpan\ArpanArpan\obj\Debug\net10.0\ArpanArpan.csproj.CoreCompileInputs.cache
+C:\Users\Arpan\source\repos\ArpanArpan\ArpanArpan\obj\Debug\net10.0\ArpanArpan.dll
+C:\Users\Arpan\source\repos\ArpanArpan\ArpanArpan\obj\Debug\net10.0\refint\ArpanArpan.dll
+C:\Users\Arpan\source\repos\ArpanArpan\ArpanArpan\obj\Debug\net10.0\ArpanArpan.pdb
+C:\Users\Arpan\source\repos\ArpanArpan\ArpanArpan\obj\Debug\net10.0\ArpanArpan.genruntimeconfig.cache
+C:\Users\Arpan\source\repos\ArpanArpan\ArpanArpan\obj\Debug\net10.0\ref\ArpanArpan.dll

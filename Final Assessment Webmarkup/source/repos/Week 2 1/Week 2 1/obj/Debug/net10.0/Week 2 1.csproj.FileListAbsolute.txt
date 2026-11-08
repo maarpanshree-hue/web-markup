@@ -1,0 +1,14 @@
+C:\Users\Arpan\source\repos\Week 2 1\Week 2 1\bin\Debug\net10.0\Week 2 1.exe
+C:\Users\Arpan\source\repos\Week 2 1\Week 2 1\bin\Debug\net10.0\Week 2 1.deps.json
+C:\Users\Arpan\source\repos\Week 2 1\Week 2 1\bin\Debug\net10.0\Week 2 1.runtimeconfig.json
+C:\Users\Arpan\source\repos\Week 2 1\Week 2 1\bin\Debug\net10.0\Week 2 1.dll
+C:\Users\Arpan\source\repos\Week 2 1\Week 2 1\bin\Debug\net10.0\Week 2 1.pdb
+C:\Users\Arpan\source\repos\Week 2 1\Week 2 1\obj\Debug\net10.0\Week 2 1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Arpan\source\repos\Week 2 1\Week 2 1\obj\Debug\net10.0\Week 2 1.AssemblyInfoInputs.cache
+C:\Users\Arpan\source\repos\Week 2 1\Week 2 1\obj\Debug\net10.0\Week 2 1.AssemblyInfo.cs
+C:\Users\Arpan\source\repos\Week 2 1\Week 2 1\obj\Debug\net10.0\Week 2 1.csproj.CoreCompileInputs.cache
+C:\Users\Arpan\source\repos\Week 2 1\Week 2 1\obj\Debug\net10.0\Week 2 1.dll
+C:\Users\Arpan\source\repos\Week 2 1\Week 2 1\obj\Debug\net10.0\refint\Week 2 1.dll
+C:\Users\Arpan\source\repos\Week 2 1\Week 2 1\obj\Debug\net10.0\Week 2 1.pdb
+C:\Users\Arpan\source\repos\Week 2 1\Week 2 1\obj\Debug\net10.0\Week 2 1.genruntimeconfig.cache
+C:\Users\Arpan\source\repos\Week 2 1\Week 2 1\obj\Debug\net10.0\ref\Week 2 1.dll

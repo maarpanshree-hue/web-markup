@@ -1,0 +1,14 @@
+C:\Users\Arpan\source\repos\Week 2 1\Weak 2 4\bin\Debug\net10.0\Weak 2 4.exe
+C:\Users\Arpan\source\repos\Week 2 1\Weak 2 4\bin\Debug\net10.0\Weak 2 4.deps.json
+C:\Users\Arpan\source\repos\Week 2 1\Weak 2 4\bin\Debug\net10.0\Weak 2 4.runtimeconfig.json
+C:\Users\Arpan\source\repos\Week 2 1\Weak 2 4\bin\Debug\net10.0\Weak 2 4.dll
+C:\Users\Arpan\source\repos\Week 2 1\Weak 2 4\bin\Debug\net10.0\Weak 2 4.pdb
+C:\Users\Arpan\source\repos\Week 2 1\Weak 2 4\obj\Debug\net10.0\Weak 2 4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Arpan\source\repos\Week 2 1\Weak 2 4\obj\Debug\net10.0\Weak 2 4.AssemblyInfoInputs.cache
+C:\Users\Arpan\source\repos\Week 2 1\Weak 2 4\obj\Debug\net10.0\Weak 2 4.AssemblyInfo.cs
+C:\Users\Arpan\source\repos\Week 2 1\Weak 2 4\obj\Debug\net10.0\Weak 2 4.csproj.CoreCompileInputs.cache
+C:\Users\Arpan\source\repos\Week 2 1\Weak 2 4\obj\Debug\net10.0\Weak 2 4.dll
+C:\Users\Arpan\source\repos\Week 2 1\Weak 2 4\obj\Debug\net10.0\refint\Weak 2 4.dll
+C:\Users\Arpan\source\repos\Week 2 1\Weak 2 4\obj\Debug\net10.0\Weak 2 4.pdb
+C:\Users\Arpan\source\repos\Week 2 1\Weak 2 4\obj\Debug\net10.0\Weak 2 4.genruntimeconfig.cache
+C:\Users\Arpan\source\repos\Week 2 1\Weak 2 4\obj\Debug\net10.0\ref\Weak 2 4.dll
