@@ -1,5 +1,5 @@
 Student name: Arpan Shree Adhikari
 Student number: 760458
 Student class: IT1B
-GitHub Repository: https://github.com/maarpanshree-hue/web-markuphttps:/
+GitHub Repository: https://github.com/maarpanshree-hue/web-markup
 GitHub Pages URL: https://maarpanshree-hue.github.io/web-markup/
