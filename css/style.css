@@ -638,3 +638,51 @@ form textarea {
         grid-template-columns: 1fr;
     }
 }
+
+
+body {
+    line-height: 1.6;
+    letter-spacing: 0.5px;
+    word-spacing: 2px;
+}
+
+p {
+    text-indent: 0.5em;
+}
+
+footer img {
+    float: left;
+}
+
+.info-content p::first-letter {
+    font-weight: bold;
+}
+
+
+fieldset {
+    border-color: #243D2D;
+    border-style: solid;
+    border-width: 2px;
+}
+
+.info-cards article:nth-child(odd) {
+    background-color: #CFF;
+}
+
+.info-cards article:nth-child(even) {
+    background-color: #FFF;
+}
+
+
+.cookie-message {
+    position: fixed;
+    bottom: 0;
+    left: 0;
+    width: 100%;
+    background-color: #243D2D;
+    color: white;
+    text-align: center;
+    padding: 10px;
+    box-sizing: border-box;
+    z-index: 9999;
+}
